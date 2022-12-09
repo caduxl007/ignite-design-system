@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/caduxl007.png',
     alt: 'Cadu',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
