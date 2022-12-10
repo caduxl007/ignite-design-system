@@ -1,0 +1,2 @@
+import{A as t}from"./index.1fbf56e0.js";import"./index.3d2caa5f.js";import"./iframe.9f461b26.js";import"./index.aa0e5990.js";import"./jsx-runtime.b06d507d.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/caduxl007.png",alt:"Cadu"},argTypes:{src:{control:{type:"text"}}}},p={},m={args:{src:void 0}},e=["Primary","WithFallback"];export{p as Primary,m as WithFallback,e as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.fa85a025.js.map
